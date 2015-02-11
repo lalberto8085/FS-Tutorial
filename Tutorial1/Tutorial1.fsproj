@@ -85,6 +85,7 @@
     <None Include="HackerRank\validBST.fsx" />
     <None Include="HackerRank\messyMedians.fsx" />
     <None Include="HackerRank\eval-ex.fsx" />
+    <None Include="HackerRank\messyMedian2.fsx" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />
